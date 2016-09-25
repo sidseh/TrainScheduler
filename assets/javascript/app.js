@@ -1,4 +1,4 @@
-[[[]]] // Initialize Firebase
+ // Initialize Firebase
   var config = {
     apiKey: "AIzaSyAFYVyFDvf6N4McpfyIB-4u3HZwoBJHOuI",
     authDomain: "trainscheduler-23ae0.firebaseapp.com",
